@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "node.js": "^0.0.1-security",
+    "npm": "^8.1.1",
+    "vanilla-tilt": "^1.7.2"
+  }
+}
